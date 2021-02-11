@@ -1,19 +1,6 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Um síðuna
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
-
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
-
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
-
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+Víkursveit er hið forna nafn Árneshrepps. Nafnið er því góður samnefnari fyrir sögu svæðsins til forna og allt til nútímans. Vefsvæðið vikursveit.is er því tileinkað öllu sem tilheyrir sögu mannlífs í Árneshreppi, allt frá tröllum til saumaklúbba, mannlífsmynda, húsbygginga, ljóðlistar, bókmennta o.s.frv. Áhugahópurinn sem stendur að baki verkefninu vill með þessu framtaki gera sögu svæðisins hátt undir höfði og gera hana aðgengilegri bæði þeim sem eiga rætur sínar að rekja til svæðisins sem og gestum og gangandi. Öllum þeim sem áhuga hafa á verkefninu er velkomið að slást í för og hjálpast að við að safna efni, margar hendur vinna létt verk.
