@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Valgeirsætt
+title: V
 date: 2021-02-11T18:49:55.736Z
 description: |-
   Afkomendur Valgeirs Jónssonar og Sesselju Gísladóttur í Norðurfirði.
