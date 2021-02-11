@@ -11,4 +11,6 @@ tags:
   - Norðurfjörður
   - Valgeirsstaðir
 ---
+![Valgeir og Sesselja](/img/valgeir_og_sesselja.jpg)
+
 Til Valgeirsættar teljast afkomendur hjónanna Valgeirs Jónssonar og Sesselju Gísladóttur. Valgeir og Sesselja byrjuðu búskap í Norðurfirði 1895 og eignuðust átján börn á tuttugu og einu ári.
