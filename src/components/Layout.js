@@ -1,7 +1,8 @@
 import React from 'react'
 import { Helmet } from 'react-helmet'
-import Footer from '../components/Footer'
+import Header from '../components/Header';
 import Navbar from '../components/Navbar'
+import Footer from '../components/Footer'
 import './all.sass'
 import useSiteMetadata from './SiteMetadata'
 import { withPrefix } from 'gatsby'
@@ -14,6 +15,14 @@ const TemplateWrapper = ({ children }) => {
         <html lang="en" />
         <title>{title}</title>
         <meta name="description" content={description} />
+        <link
+          rel="preconnect"
+          href="https://fonts.gstatic.com"
+        />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Cinzel&family=Roboto&display=swap"
+          rel="stylesheet"
+        /> 
 
         <link
           rel="apple-touch-icon"
@@ -48,6 +57,7 @@ const TemplateWrapper = ({ children }) => {
           content={`${withPrefix('/')}img/og-image.jpg`}
         />
       </Helmet>
+      <Header>Víkursveit</Header>
       <Navbar />
       <div>{children}</div>
       <Footer />
