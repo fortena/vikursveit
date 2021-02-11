@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Brennuöld
+title: B
 date: 2021-02-11T19:43:04.288Z
 description: Tímabilið frá fyrsta staðfesta brennudómi árið 1625 til síðasta
   brennudóms árið 1690.
