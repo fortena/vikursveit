@@ -8,4 +8,6 @@ featuredimage: /img/2005_1007ak0001.jpg
 tags:
   - Krossneslaug
 ---
+![wikipedia mynd](https://upload.wikimedia.org/wikipedia/commons/f/f2/Krossneslaug.jpg)
+
 Heitur pottur var settur upp við Krossneslaug árið 2005.
